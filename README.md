@@ -6,7 +6,7 @@ An interactive Loan Risk Analysis Dashboard built using Microsoft Power BI to an
 
 ## 📸 Dashboard Preview
 
-![Loan Risk Analysis Dashboard](Loan_Risk_Dashboard.png)
+![Loan Risk Analysis Dashboard](Loan_Risk_Analysis_Dashboard.png)
 
 ---
 
@@ -65,11 +65,11 @@ This project analyzes loan applications and customer credit risk using Microsoft
 
 ## 📁 Project Files
 
-- Loan_Risk_Analysis.pbix
-- Loan_Risk_Dashboard.png
+- Loan_Risk_Analysis_Dashboard.pbix
+- Loan_Risk_Analysis_Dashboard.png
 - Loan_Risk_Dataset_Cleaned.csv
 - Loan_Risk_Analysis_SQL_Queries.sql
-
+  
 ---
 
 ## 🚀 Skills Demonstrated
